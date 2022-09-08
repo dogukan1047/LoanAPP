@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d22b943-4d77-4237-90d2-f61558ef7981" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoanApplicationSystem/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/LoanApplicationSystem/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/contoller/LimitCalculationContoller.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/contoller/LimitCalculationContoller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/contoller/UserContoller.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/contoller/UserContoller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/service/Imp/LimitCalculationServicesImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/service/Imp/LimitCalculationServicesImp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../KodluyoruzBootcampWork\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2BOcUU12WPE5VQMztpZ60oXCnDY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Users/doguk/IdeaProjects/KodluyoruzBootcampWork/LoanApplicationSystem/src/main/java/com/example/loanapplicationsystem/exceptions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3218391",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "535a4e6d8b7507ace052f59823fff283"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\doguk\IdeaProjects\KodluyoruzBootcampWork\LoanApplicationSystem\src\main\java\com\example\loanapplicationsystem\exceptions" />
+      <recent name="C:\Users\doguk\IdeaProjects\KodluyoruzBootcampWork\Week_3\src\main\java\com\example\week_3\services" />
+      <recent name="C:\Users\doguk\IdeaProjects\KodluyoruzBootcampWork\Week_3\src\main\java\com\example\week_3\repository" />
+      <recent name="C:\Users\doguk\IdeaProjects\KodluyoruzBootcampWork\Week_3\src\main\java\com\example\week_3\contoller" />
+      <recent name="C:\Users\doguk\IdeaProjects\KodluyoruzBootcampWork\Week_3\src\main\java\com\example\week_3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\doguk\IdeaProjects\KodluyoruzBootcampWork\LoanApplicationSystem\İmage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LoanApplicationSystemApplication">
+    <configuration name="LoanApplicationSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="LoanApplicationSystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.loanapplicationsystem.LoanApplicationSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week30Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Week_3_0" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.week_3_0.Week30Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Week_3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.week_3.Week3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d22b943-4d77-4237-90d2-f61558ef7981" name="Changes" comment="" />
+      <created>1656780593531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656780593531</updated>
+      <workItem from="1657054494297" duration="1832000" />
+      <workItem from="1657180334251" duration="51000" />
+      <workItem from="1657180397899" duration="62000" />
+      <workItem from="1658052162597" duration="20000" />
+      <workItem from="1658053215598" duration="12000" />
+      <workItem from="1658253374646" duration="12000" />
+      <workItem from="1658325767296" duration="5429000" />
+      <workItem from="1658912710954" duration="11009000" />
+      <workItem from="1659264369634" duration="1312000" />
+      <workItem from="1659280876728" duration="12124000" />
+      <workItem from="1659368773680" duration="7160000" />
+      <workItem from="1659443730686" duration="12275000" />
+      <workItem from="1659549936426" duration="645000" />
+      <workItem from="1659870020573" duration="11390000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
